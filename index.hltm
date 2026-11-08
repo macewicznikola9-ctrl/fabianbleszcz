@@ -1,0 +1,145 @@
+
+
+<!DOCTYPE html>
+
+<html lang="pl">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>FABIANBLESZCZ</title>
+
+<style>
+
+body {
+
+  margin: 0;
+
+  background: #080808;
+
+  color: white;
+
+  font-family: Arial, sans-serif;
+
+  text-align: center;
+
+}
+
+header {
+
+  padding: 22px;
+
+  color: red;
+
+  font-weight: bold;
+
+  letter-spacing: 4px;
+
+  background: #171717;
+
+}
+
+main { padding: 65px 20px; }
+
+h1 {
+
+  color: red;
+
+  font-size: 48px;
+
+  text-shadow: 0 0 20px red;
+
+}
+
+h2 { color: #ff3333; }
+
+p { color: #ccc; font-size: 18px; line-height: 1.6; }
+
+section {
+
+  background: #191919;
+
+  margin: 20px 10px;
+
+  padding: 25px;
+
+  border-radius: 18px;
+
+}
+
+button {
+
+  background: red;
+
+  color: white;
+
+  border: 0;
+
+  padding: 16px 25px;
+
+  border-radius: 10px;
+
+  font-size: 17px;
+
+  font-weight: bold;
+
+}
+
+footer { padding: 30px; color: #777; }
+
+</style>
+
+</head>
+
+<body>
+
+<header>FABIANBLESZCZ</header>
+
+<main>
+
+<h1>FABIAN BLESZCZ</h1>
+
+<p>Legenda. Ikona. Normalnie nienormalny.</p>
+
+<button onclick="alert('FABIAN MODE ACTIVATED 🔥')">
+
+POZNAJ LEGENDĘ
+
+</button>
+
+</main>
+
+<section>
+
+<h2>Kim jest Fabian?</h2>
+
+<p>Fabian Bleszcz – człowiek, którego nie da się opisać jednym słowem. Normalny to on nie jest!</p>
+
+</section>
+
+<section>
+
+<h2>POZIOM NORMALNOŚCI</h2>
+
+<h1>0%</h1>
+
+<p>100% oryginalności. 200% nienormalności.</p>
+
+</section>
+
+<section>
+
+<h2>OSTRZEŻENIE ⚠️</h2>
+
+<p>Kontakt z Fabianem może powodować niekontrolowany śmiech!</p>
+
+</section>
+
+<footer>© 2026 FABIANBLESZCZ</footer>
+
+</body>
+
+</html>
